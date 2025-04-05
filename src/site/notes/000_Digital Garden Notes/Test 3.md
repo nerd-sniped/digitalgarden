@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden-notes/test-3/","noteIcon":"","created":"2025-04-05T16:23:37.819-04:00","updated":"2025-04-05T16:31:43.473-04:00"}
+{"dg-publish":true,"permalink":"/000-digital-garden-notes/test-3/","noteIcon":"","created":"2025-04-05T16:23:37.819-04:00","updated":"2025-04-05T16:45:42.083-04:00"}
 ---
 
 This is a test for reasons
@@ -8,7 +8,7 @@ This is a test for reasons
 
 <div class="markdown-embed-title">
 
-# Test2
+# Test6
 
 </div>
 
@@ -20,7 +20,7 @@ This is a test for reasons
 
 <div class="markdown-embed-title">
 
-# Test2
+# Test6
 
 </div>
 
@@ -32,7 +32,7 @@ This is a test for reasons
 
 <div class="markdown-embed-title">
 
-# Test2
+# Test6
 
 </div>
 
@@ -44,29 +44,14 @@ This is a test for reasons
 
 <div class="markdown-embed-title">
 
-# Test2
+# Test6
 
 </div>
 
 
 
 This is a test for reasons
-![[000_Digital Garden Notes/Test 3#^area=rlNhe5xJcJCYuMULlnIhM\|Test2]]
-
-
-#  [[000_Digital Garden Notes/Test 3\|Test 3]] 
-
- 
-# Excalidraw Data
-
-## Text Elements
-
-^_dummy!_
-
-Test 
-
-
-</div></div>
+![[000_Digital Garden Notes/Test 3#^area=rlNhe5xJcJCYuMULlnIhM\|Test6]]
 
 
 
@@ -86,6 +71,24 @@ Test
 
 
 
+
+#  [[000_Digital Garden Notes/Test 3\|Test 3]] 
+
+ 
+# Excalidraw Data
+
+## Text Elements
+
+^_dummy!_
+
+Test 
+
+
+</div></div>
+
+
+
+
 #  [[000_Digital Garden Notes/Test 3\|Test 3]] 
 
  
@@ -102,6 +105,7 @@ Test
 
 
 
+
 #  [[000_Digital Garden Notes/Test 3\|Test 3]] 
 
  
@@ -115,6 +119,7 @@ Test
 
 
 </div></div>
+
 
 
 
