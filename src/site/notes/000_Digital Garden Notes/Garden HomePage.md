@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden-notes/garden-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-05T14:01:07.446-04:00"}
+{"dg-publish":true,"permalink":"/000-digital-garden-notes/garden-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-05T16:23:37.394-04:00"}
 ---
 
 ## Welcome! 
@@ -10,4 +10,4 @@ This is a series of random and sparce notes, intended for no particular audience
 
 Part of the concept is to learn in the open, or work with the garage door open.  I offer courses and classes,  which I charge money for. If you're patient and kind you can likely find the same information here, much less curated, and likely a lot more difficult to follow, the intersection of commerce and creation are tumultuous at best.  
 
-Now I would like to test the integration with ExcaliDraw  with thie file [[000_Digital Garden Notes/Test File\|Test File]] [[000_Digital Garden Notes/test file 2\|test file 2]]
+Now I would like to test the integration with ExcaliDraw  with the file  [[000_Digital Garden Notes/Test 3\|Test 3]]
