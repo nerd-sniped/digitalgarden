@@ -64,7 +64,7 @@ Now it's time to test if this can actually work as an integration
 ![[000_Digital Garden Notes/Test File#^area=MfdFI8Pu-M8nKFoYfKyK6\|Test Link transclusion]]
 
 
-This is another test of the dzrawing feature
+This is another test of the drawing feature
 
 
 
@@ -77,7 +77,7 @@ This is another test of the dzrawing feature
 
 
 
-This is another test of the dzrawing feature
+This is another test of the drawing feature
 
 
 
@@ -90,7 +90,7 @@ This is another test of the dzrawing feature
 
 
 
-This is another test of the dzrawing feature
+This is another test of the drawing feature
 
 
 
@@ -103,7 +103,7 @@ This is another test of the dzrawing feature
 
 
 
-This is another test of the dzrawing feature
+This is another test of the drawing feature
 
 
 
@@ -116,7 +116,7 @@ This is another test of the dzrawing feature
 
 
 
-This is another test of the dzrawing feature
+This is another test of the drawing feature
 
 
 
