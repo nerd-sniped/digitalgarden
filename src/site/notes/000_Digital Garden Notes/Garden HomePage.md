@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden-notes/garden-home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/000-digital-garden-notes/garden-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-05T14:01:07.446-04:00"}
 ---
 
 ## Welcome! 

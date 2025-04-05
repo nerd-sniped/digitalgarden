@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden-notes/test-file-2/"}
+{"dg-publish":true,"permalink":"/000-digital-garden-notes/test-file-2/","noteIcon":"","created":"2025-04-05T13:59:48.769-04:00","updated":"2025-04-05T16:07:14.105-04:00"}
 ---
 
 #  [[000_Digital Garden Notes/test file 2\|test file 2]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden-notes/rubber-ducking/"}
+{"dg-publish":true,"permalink":"/000-digital-garden-notes/rubber-ducking/","noteIcon":"","created":"2025-04-05T13:06:35.715-04:00","updated":"2025-04-05T13:08:30.053-04:00"}
 ---
 
 
