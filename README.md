@@ -1,9 +1,7 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Ryan's Digital Garden
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+Hey I'm Ryan, You're looking at the Github Repo of a website (the much less pretty way to view a website)Check out the intended viewing experience here: [RyanKelly.garden](https://ryankelly.garden)
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+I build this using [Obsidian](https://obsidian.md) my prefered note editor as well as a Template that can be found here [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+
+---  
