@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-06T11:49:35.369-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-06T11:59:55.408-04:00"}
 ---
 
-# Ryan Makes Physical Products to Explore the Joy in Building Things
+## Hey, I'm Ryan! I Make Physical Products to Explore the Joy of Building Things
 
 
 Like many other people with a Digital Garden, I initially came across the concept through a [Maggie Appleton](https://maggieappleton.com/garden-history) post that gave the basic outline; 
