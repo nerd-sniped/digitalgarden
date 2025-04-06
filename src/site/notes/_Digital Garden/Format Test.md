@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/format-test/","noteIcon":"1","created":"2025-04-06T12:34:01.156-04:00","updated":"2025-04-06T12:38:03.060-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/format-test/","noteIcon":"1","created":"2025-04-06T12:34:01.156-04:00","updated":"2025-04-06T12:49:47.601-04:00"}
 ---
 
-
+This Page isn't really meant as a reference for anything other than how the given theme renders the Standard MD inputs. I'll occasionally play with the Theme and this is an easy page to visually see how that change affects all of my formatting. 
 # H1
 ## H2
 ### H3
@@ -29,11 +29,28 @@ Test Script
 
 ```
 
-```mermaid 
-
-
+```mermaid
+pie title NETFLIX 
+"Time spent looking for movie" : 90 
+"Time spent watching it" : 10
 ```
 
+```mermaid
+quadrantChart 
+title Reach and engagement of campaigns 
+x-axis Low Reach --> High Reach 
+y-axis Low Engagement --> High Engagement 
+quadrant-1 We should expand 
+quadrant-2 Need to promote 
+quadrant-3 Re-evaluate 
+quadrant-4 May be improved 
+Campaign A: [0.3, 0.6] 
+Campaign B: [0.45, 0.23] 
+Campaign C: [0.57, 0.69] 
+Campaign D: [0.78, 0.34] 
+Campaign E: [0.40, 0.34] 
+Campaign F: [0.35, 0.78]
+```
 - Item 1
 - Item 2
 - Item3 
