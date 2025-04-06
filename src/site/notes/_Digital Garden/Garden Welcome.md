@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-06T12:38:17.234-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-06T13:02:13.838-04:00"}
 ---
 
 ## Hey, I'm Ryan! I Make Physical Products to Explore the Joy of Building Things
@@ -24,7 +24,13 @@ Functionally these are non linear notes that represent the accumulation of knowl
 	- These are typically other peoples content. These will typically be a mix of my highlights of others content. I do my best to take that info and [[_Digital Garden/Transclude\|Transclude]] it where I can to keep sources accessible. 
 - ### Treasure 
 	- Collection of rocks, evergreen notes, and other resources, I think of these as high density value areas, potentially difficult to understand, knowledge dumps. Amazing for the right people but potentially too dense for a novice.  These are typically what I distill and develop into my paid courses (have pay rent somehow)  If you have the patients or already know most of the basics, you can self teach through these notes with some effort. 
+I actively prune and keep the garden up to date as I walk through it.  If you come across an area that is particularly unkempt, feel free to reach out and let me know and I'll bring some love back to the area. These notes are open source and public. I have other pieces of content on the internet that are much more formulaic, the majority of that content begins its life here as an unstructured thought, as it matures the are in which it fits often becomes more clear. 
+
+Part of the garden notes is an [Epistemic Disclosure](https://maggieappleton.com/epistemic-disclosure) Essentially I will do my best to articulate not only how well thought out the idea is but how confident I am in the content.  Some things are going to be me tentatively writing down notes as I begin to comprehend a topic. Other notes are going to be based on Years of experience and are not nearly as tentative.  Disclosing this type of Metadata can help bring a context and encourage useful feedback. 
+
+
 [[_Digital Garden/Format Test\|Format Test]]
+
 
 
 
