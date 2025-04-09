@@ -522,20 +522,32 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addTransform("remove-excalidraw", function(content, outputPath) {
-    if (!outputPath?.endsWith(".html")) return content;
+    // Only process HTML files
+    if (outputPath && !outputPath.endsWith(".html")) {
+      return content;
+    }
   
+    if (!content) return content;
+    
     const { parse } = require("node-html-parser");
     const root = parse(content);
     
-    // Remove Excalidraw Data section (supports H1/H2)
-    const excalidrawSection = root.querySelector(
-      'h1:contains("Excalidraw Data"), h2:contains("Excalidraw Data")'
-    )?.parentNode; // Target the parent section for better cleanup
-  
-    if (excalidrawSection) {
-      excalidrawSection.remove();
+    // Check for both h1 and h2 Excalidraw headings
+    const excalidrawHeading = root.querySelector('h1:contains("Excalidraw Data")') || 
+                            root.querySelector('h2:contains("Excalidraw Data")');
+    
+    if (excalidrawHeading) {
+      // Remove all following siblings
+      let nextNode = excalidrawHeading.nextElementSibling;
+      while (nextNode) {
+        const nodeToRemove = nextNode;
+        nextNode = nextNode.nextElementSibling;
+        nodeToRemove.remove();
+      }
+      // Remove the heading itself
+      excalidrawHeading.remove();
     }
-  
+    
     return root.toString();
   });
 
