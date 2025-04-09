@@ -552,6 +552,17 @@ module.exports = function (eleventyConfig) {
     return variable;
   });
 
+  eleventyConfig.addFilter("hideExcalidraw", function(str) {
+    if (!str) return str;
+    
+    // Split at the Excalidraw marker and keep only the first part
+    const excalidrawMarker = "# Excalidraw Data";
+    const sections = str.split(excalidrawMarker);
+    
+    // If marker was found, return content before it
+    return sections.length > 1 ? sections[0].trim() : str;
+  });
+  
   eleventyConfig.addPlugin(pluginRss, {
     posthtmlRenderOptions: {
       closingSingleTag: "slash",
