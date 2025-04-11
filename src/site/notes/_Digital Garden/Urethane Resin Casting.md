@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/urethane-resin-casting/","noteIcon":"1","created":"2025-04-09T10:43:34.368-04:00","updated":"2025-04-09T14:46:49.808-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/urethane-resin-casting/","noteIcon":"1","created":"2025-04-09T10:43:34.368-04:00","updated":"2025-04-10T17:18:31.389-04:00"}
 ---
 
-To make reproduction parts of anything Resin Casting is a common method. This essentially involves building a mold out of Silicone, and pouring in a Resin to create a duplicate. The material properties of the resulting part can be selected and Controlled depending on the [[_Digital Garden/Resin\|Resin]] that is selected. 
+To make reproduction parts of anything Resin Casting is a common method. This essentially involves building a mold out of [[_Digital Garden/Silicone\|Silicone]], and pouring in a [[_Digital Garden/Resin\|Resin]] to create a duplicate. The material properties of the resulting part can be selected and Controlled depending on the [[_Digital Garden/Resin\|Resin]] that is selected. 
 
 The mold should include provisions to identify the part that is being cast, retention and alignment features, and be as self explanatory as possible. 
 ## Planning
@@ -51,7 +51,7 @@ It's hard to give generic enough advice to be useful for all parts. Typically yo
 
 # Casting Process
 
-![Pasted image 20250409144649.png](/img/user/Pasted%20image%2020250409144649.png)
+![Pasted image 20250409144649.png](/img/user/Images/Pasted%20image%2020250409144649.png)
 # Excalidraw Data
 
 ## Text Elements

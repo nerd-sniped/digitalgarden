@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/format-test/","noteIcon":"1","created":"2025-04-07T11:31:47.473-04:00","updated":"2025-04-06T12:49:52.192-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/format-test/","noteIcon":"1","created":"2025-04-06T12:34:01.156-04:00","updated":"2025-04-06T12:49:52.192-04:00"}
 ---
 
 This Page isn't really meant as a reference for anything other than how the given theme renders the Standard MD inputs. I'll occasionally play with the Theme and this is an easy page to visually see how that change affects all of my formatting. 

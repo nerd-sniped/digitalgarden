@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-is-a-digital-garden/","noteIcon":"1","created":"2025-04-07T11:31:47.935-04:00","updated":"2025-04-06T13:21:08.475-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-is-a-digital-garden/","noteIcon":"1","created":"2025-04-06T11:48:20.293-04:00","updated":"2025-04-06T13:21:08.475-04:00"}
 ---
 
 

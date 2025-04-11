@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/blender/","noteIcon":"1","created":"2025-04-09T10:43:35.113-04:00","updated":"2025-04-09T16:56:13.210-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/blender/","noteIcon":"1","created":"2025-04-06T22:58:41.636-04:00","updated":"2025-04-09T16:56:13.210-04:00"}
 ---
 
 [Blender](https://Blender.org) is a ridiculously powerful topographical modeling program, capable of complex [[physics simulations\|physics simulations]], [[_Digital Garden/Photo Realistic Renders\|Photo Realistic Renders]] Rendering, and [[Topographic\|Topographic]] CAD modeling. 

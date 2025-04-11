@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/photo-realistic-renders/","noteIcon":"1","created":"2025-04-09T10:43:35.010-04:00","updated":"2025-04-08T18:00:53.250-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/photo-realistic-renders/","noteIcon":"1","created":"2025-04-08T17:52:47.547-04:00","updated":"2025-04-08T18:00:53.250-04:00"}
 ---
 
 The process of making a render look as though it came from a physical camera, and the subject exists in the real world. 

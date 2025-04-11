@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-09T10:43:34.751-04:00","updated":"2025-04-09T16:35:32.527-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-09T16:35:32.527-04:00"}
 ---
 
 ## Digital Garden Home

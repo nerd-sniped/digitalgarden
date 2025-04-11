@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/book-s/","noteIcon":"1","created":"2025-04-07T11:31:47.659-04:00","updated":"2025-04-06T12:56:01.647-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/book-s/","noteIcon":"1","created":"2025-04-05T17:55:05.163-04:00","updated":"2025-04-06T12:56:01.647-04:00"}
 ---
 
 I read A lot.  Some of it is for learning, some of it is for entertainment. 
