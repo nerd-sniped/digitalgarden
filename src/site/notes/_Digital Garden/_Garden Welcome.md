@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-09T16:35:32.527-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/garden-welcome/","tags":["gardenEntry"],"noteIcon":"1","created":"2025-04-05T12:33:00.069-04:00","updated":"2025-04-11T18:39:53.741-04:00"}
 ---
 
 ## Digital Garden Home
@@ -14,7 +14,7 @@ A garden by it's very nature is a opinionated, I give *my* take on [[_Digital Ga
 Functionally these are non linear notes that represent the accumulation of knowledge over time. The garden metaphor is helpful as a framework to contextualize the maturity of the content. In my garden I have;
 - #### Seeds 
 	- The Earliest nugget of an Idea, usually jotted down with little to no context
-- ##### Budding
+- #### Budding
 	- Active development and working on learning the concept, not yet enough to stand alone. (Tutorial Hell)
 - #### Evergreen
 	- (Hopefully) fully formed ideas containing enough context to be read and appreciated alone. Often these will be refined and published as a more traditional Blog Post elsewhere. 

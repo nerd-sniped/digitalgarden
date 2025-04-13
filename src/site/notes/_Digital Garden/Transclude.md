@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/transclude/","noteIcon":"1","created":"2025-04-06T12:38:09.971-04:00","updated":"2025-04-06T12:39:51.178-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/transclude/","tags":["DigitalGarden"],"noteIcon":"1","created":"2025-04-06T12:38:09.971-04:00","updated":"2025-04-13T17:07:14.461-04:00"}
 ---
 
 
