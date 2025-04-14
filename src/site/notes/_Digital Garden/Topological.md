@@ -8,7 +8,7 @@ In layman's terms, usually Topological modeling is used for organic flowing shap
 
  Blender is a common example of a Topographic modeling program, while fusion360 or solidworks would primarily be Boundary Representation modelers.  
 
-In topological modeling, a decision needs to be made fairly early on; [[_Digital Garden/Quads\|Quads]] or [[Triangles\|Triangles]].  Most modelers insist on quads being superior, but there are good cases for both.  
+In topological modeling, a decision needs to be made fairly early on; [[_Digital Garden/Quads\|Quads]] or [[_Digital Garden/Triangles\|Triangles]].  Most modelers insist on quads being superior, but there are good cases for both.  
 
 Historically Triangles have been used.  This largely is due to memory optimization.  A triangle defines a plane, and can be defined using only 3 points.   
 
