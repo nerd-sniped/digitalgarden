@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/book-s/","tags":["DigitalGarden"],"noteIcon":"1","created":"2025-04-05T17:55:05.163-04:00","updated":"2025-04-20T12:17:13.684-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/book-s/","tags":["DigitalGarden"],"noteIcon":"1","created":"2025-04-05T17:55:05.163-04:00","updated":"2025-04-20T15:52:12.272-04:00"}
 ---
 
 I read A lot.  Some of it is for learning, some of it is for entertainment. 
@@ -13,7 +13,7 @@ I read A lot.  Some of it is for learning, some of it is for entertainment.
 
 [[03_Books/Building A Story Brand\|Building A Story Brand]]
 
-[[Factorem/Business/Build A Second Brain\|Build A Second Brain]] 
+[[03_Books/Build A Second Brain\|03_Books/Build A Second Brain]] 
 
 [[03_Books/The Design of Everyday Things\|The Design of Everyday Things]]
 
