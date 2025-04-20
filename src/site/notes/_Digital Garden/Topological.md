@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/digital-garden/topological/","tags":["DigitalGarden"],"noteIcon":"1","created":"2025-04-13T16:50:39.700-04:00","updated":"2025-04-13T17:48:52.194-04:00"}
 ---
 
-Topography is the study of forms. focused on the surface elements. in the context of [[3D modeling\|3D modeling]] Its a type of editing that directly modifies the surface of a 3D form. This is in contrast to [[Boundary Representation\|Boundary Representation]] modeling which modifies the equations that define a enclosed volume.  
+Topography is the study of forms. focused on the surface elements. in the context of [[3D modeling\|3D modeling]] Its a type of editing that directly modifies the surface of a 3D form. This is in contrast to [[_Digital Garden/Boundary Representation\|Boundary Representation]] modeling which modifies the equations that define a enclosed volume.  
 
-In layman's terms, usually Topological modeling is used for organic flowing shapes, and [[Boundary Representation\|B-REP]] Modeling is used for production work and or [[Hard Surface\|Hard Surface]] Modeling. 
+In layman's terms, usually Topological modeling is used for organic flowing shapes, and [[_Digital Garden/Boundary Representation\|B-REP]] Modeling is used for production work and or [[Hard Surface\|Hard Surface]] Modeling. 
 
  Blender is a common example of a Topographic modeling program, while fusion360 or solidworks would primarily be Boundary Representation modelers.  
 
